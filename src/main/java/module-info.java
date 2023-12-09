@@ -1,4 +1,4 @@
-module ru.nsu.ccfit.gorin.snakes {
+module ru.nsu.ccfit.ratushnyak.snakes {
     requires javafx.controls;
     requires javafx.fxml;
     requires org.slf4j;

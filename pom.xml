@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>ru.nsu.ccfit.gorin.snakes</groupId>
+    <groupId>ru.nsu.ccfit.ratushnyak.snakes</groupId>
     <artifactId>test</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>test</name>
@@ -112,7 +112,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                ru.nsu.ccfit.gorin.snakes.test/ru.nsu.ccfit.gorin.snakes.test.HelloApplication
+                                ru.nsu.ccfit.ratushnyak.snakes.test/ru.nsu.ccfit.ratushnyak.snakes.test.HelloApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
